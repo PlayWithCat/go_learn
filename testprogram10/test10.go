@@ -16,4 +16,6 @@ func main() {
 
 	p.pointer()
 	p.value()
+
+	println("hello")
 }
